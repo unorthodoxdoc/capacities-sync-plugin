@@ -1,0 +1,7 @@
+name: capacities-sync
+version: 1.0.0
+description: "Sync Hermes conversations to Capacities via a callable tool."
+author: user
+hooks: []
+provides_tools:
+  - sync_conversation_to_capacities
